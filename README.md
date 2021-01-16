@@ -23,11 +23,11 @@
 
 ```json
 {
-   "languages": ["JS/TS", "Python", "Java", "C/C++", "C#"],
-   "backend": ["NodeJS", "Django", ,"Golang","Managed Cloud Services in AWS/GCP"],
+   "languages": ["JS/TS", "Python", "C/C++", "C#"],
+   "backend": ["NodeJS", "Django"],
    "frontend": [ "React/Redux", "HTML/CSS"],
    "databases": ["Mongodb", "Firebase", "Mysql", ],
-   "ai framework":["Tensorflow", "PyTorch", "Scikit-learn"],
+   "ai framework":["Tensorflow", "Scikit-learn"],
    
 }
 ```
