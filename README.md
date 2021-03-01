@@ -25,7 +25,7 @@
 {
    "languages": ["JS/TS", "Python", "C/C++", "C#","Java"],
    "backend": ["NodeJS", "Django"],
-   "frontend": [ "React/Redux", "HTML/CSS"],
+   "frontend": [ "React/Redux", "HTML/CSS",Bootstrap],
    "databases": ["Mongodb", "Firebase", "Mysql", ],
    "ai framework":["Tensorflow", "Scikit-learn"],
    
