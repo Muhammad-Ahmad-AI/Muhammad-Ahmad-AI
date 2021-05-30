@@ -27,7 +27,7 @@
    "languages": ["JS/TS", "Python", "C/C++", "C#","Java",Ruby],
    "backend": ["NodeJS", Ruby on Rails],
    "frontend": [ "React/Redux", "HTML/CSS"],
-   "databases": ["Mongodb", "Firebase", "Mysql" ],
+   "databases": ["Mongodb", "Firebase", "Mysql","Pg" ],
    "ai framework":["Tensorflow", "Scikit-learn"],
    
 }
