@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmad 👋
 
-## I'm a Developer, Teacher and Researcher!
+## I'm a Software Developer, Teacher and Researcher!
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer
 - 🌱 I’m currently learning Android, System Design and Rust 
 - 👯 I’m looking to collaborate with other content creators and developers
