@@ -4,7 +4,8 @@
 - 🔭 I’m currently working as ML Engineer and Full Stack Developer
 - 🌱 I’m currently learning Android, System Design and Rust 
 - 👯 I’m looking to collaborate with other content creators and developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 📢 Love to teach and inspire students.
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
