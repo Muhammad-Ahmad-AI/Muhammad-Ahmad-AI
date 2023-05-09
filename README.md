@@ -141,6 +141,4 @@
 </p>
 
 # Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/saadhaxxan/saadhaxxan/blob/master/github-metrics.svg" />
-</p>
+
